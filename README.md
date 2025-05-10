@@ -9,7 +9,6 @@ A Python-based AI-powered Pac-Man game built as part of our semester project. Th
 - [Introduction](#introduction)
 - [Project Files](#project-files)
 - [How to Run](#how-to-run)
-- [Game Board Preview](#game-board-preview)
 - [Demo](#demo)
 - [Report](#report)
 - [Project Proposal](#project-proposal)
@@ -48,6 +47,8 @@ python pacman.py
 ## 🎥 Demo
 Click the link below to view a live demo of the game in action:
 
+[View Project DEMO](https://drive.google.com/file/d/1K67UA8EQrCGK6gAvClez6dvMH8G959AK/view?usp=sharing)
+
 ---
 
 ## 📑 Report
@@ -77,6 +78,8 @@ Our ghost AI is inspired by the behavior patterns in the original Pac-Man game, 
 
 ---
 
+## 🏁 Conclusion
+This project demonstrates how traditional game mechanics can be enhanced using AI techniques. We combined search-based strategies and state-driven behavior models to simulate intelligent and reactive enemy agents. The final result is a fun, challenging, and technically enriched recreation of Pac-Man.
 
 
 
