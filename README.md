@@ -40,8 +40,55 @@ Pac-Man is a classic arcade game where the player navigates a maze, collecting p
 ## ▶️ How to Run
 
 ```bash
-python main.py
+python pacman.py
+```
 
+---
 
 ## 🎥 Demo
+Click the link below to view a live demo of the game in action:
+
+---
+
+## 📑 Report
+Download the final report here:
+
+---
+
+## 📝 Project Proposal
+View our original proposal here:
+
+---
+
+## 🧠 AI Features
+Our ghost AI is inspired by the behavior patterns in the original Pac-Man game, enhanced with modern techniques:
+
+**Scatter Mode**: Each ghost retreats when powerups are enabled.
+
+**Chase Mode**: Ghosts track Pac-Man using a greedy pathfinding strategy.
+
+**Return Mode**: Ghosts return to the ghost house after being eaten.
+
+**Reactive AI**: Ghosts change behavior based on Pac-Man's current direction, location and enviroment.
+
+**Greedy Approach**: Ghosts make immediate best choices rather than planning ahead.
+
+**Different Ghost Behaviors**: Each ghost may follow different strategies — one chases directly, another predicts movement, and one may block paths.
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
