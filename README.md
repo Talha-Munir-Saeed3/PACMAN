@@ -51,7 +51,7 @@ Click the link below to view a live demo of the game in action:
 ---
 
 ## 📑 Report
-Download the final report here:
+Download the final report here:[View Project Report](https://github.com/Talha-Munir-Saeed3/PACMAN/blob/a9fc4ccf07ad69eb509dc5672eeb2503b1627298/Project%20Report.pdf)
 
 ---
 
