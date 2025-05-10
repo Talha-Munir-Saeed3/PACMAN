@@ -28,12 +28,10 @@ Pac-Man is a classic arcade game where the player navigates a maze, collecting p
 
 | File/Folder           | Description |
 |----------------------|-------------|
-| `main.py`            | Main game logic and loop |
-| `ghost.py`           | AI logic for ghost behavior |
-| `pacman.py`          | Player logic and movement |
-| `assets/`            | Game assets (images, sounds) |
-| `board.txt`          | Maze layout in text format |
-| `report.pdf`         | Final semester report |
+| `pacman.py`            | Main game logic and loop |
+| `images/`            | Game assets (images, sounds) |
+| `board.py`          | Maze layout in text format |
+| `report.pdf`         | Project report |
 | `proposal.pdf`       | Original project proposal |
 | `README.md`          | This documentation file |
 
@@ -43,3 +41,7 @@ Pac-Man is a classic arcade game where the player navigates a maze, collecting p
 
 ```bash
 python main.py
+
+
+## 🎥 Demo
+
