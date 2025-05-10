@@ -33,3 +33,17 @@ boards = [
 [3, 7, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 8, 3],
 [7, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 8]
          ]
+
+"""
+Could use jpeg but we will design a level with tiles    
+0--- Blank Space
+1--- Food (White Dots)
+2--- Powerups (Big White Dots)
+3--- Verticle (Blue Wall)
+4--- Horizontal (Blue Wall)
+5--- Left Down (Blue Wall)
+6--- Down Right (Blue Wall)
+7--- Up Right (Blue Wall)
+8--- Left Up (Blue Wall)
+9--- Gate Ghost (White Gate)
+"""
