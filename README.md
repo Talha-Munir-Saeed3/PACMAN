@@ -46,7 +46,6 @@ python pacman.py
 
 ## 🎥 Demo
 Click the link below to view a live demo of the game in action:
-
 [View Project DEMO](https://drive.google.com/file/d/1K67UA8EQrCGK6gAvClez6dvMH8G959AK/view?usp=sharing)
 
 ---
@@ -57,8 +56,7 @@ Download the final report here:
 ---
 
 ## 📝 Project Proposal
-View our original proposal here:
-[View Project Proposal](https://docs.google.com/document/d/14RaQcEfyaPpi5PNuj5qPtyg9m3B_3g9P/edit?usp=drive_link&ouid=100827600261452189958&rtpof=true&sd=true)
+View our original proposal here:[View Project Proposal](https://docs.google.com/document/d/14RaQcEfyaPpi5PNuj5qPtyg9m3B_3g9P/edit?usp=drive_link&ouid=100827600261452189958&rtpof=true&sd=true)
 
 ---
 
