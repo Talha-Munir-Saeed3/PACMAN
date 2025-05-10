@@ -58,6 +58,7 @@ Download the final report here:
 
 ## 📝 Project Proposal
 View our original proposal here:
+[View Project Proposal](https://docs.google.com/document/d/14RaQcEfyaPpi5PNuj5qPtyg9m3B_3g9P/edit?usp=drive_link&ouid=100827600261452189958&rtpof=true&sd=true)
 
 ---
 
